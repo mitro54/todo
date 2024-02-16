@@ -1,0 +1,18 @@
+/* .items {
+    display: inline-block;
+    position: fixed;
+    border: 3px black;
+    background-color: rgb(176, 176, 185);
+} */
+
+body {
+    background-color: rgb(141, 141, 141);
+}
+
+input {
+    border: black 3px;
+}
+
+ul li {
+    background-color: rgb(141, 141, 141);
+}

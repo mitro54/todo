@@ -11,8 +11,23 @@ body {
 
 input {
     border: black 3px;
+    display: inline-block;
+    border-radius: 5px;
+    height: 2rem;
 }
 
-ul li {
-    background-color: rgb(141, 141, 141);
+.button {
+    height: 2rem;
+}
+
+#form {
+    width: fit-content;
+    margin: 0 auto;
+    outline: 2px solid red;
+}
+
+li {
+    background-color: white;
+    width: fit-content;
+    margin: 0 auto;
 }
